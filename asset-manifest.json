@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.28d405fc.chunk.css",
-    "main.js": "/static/js/main.e6d074d1.chunk.js",
-    "main.js.map": "/static/js/main.e6d074d1.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.09b85ec0.js",
-    "runtime-main.js.map": "/static/js/runtime-main.09b85ec0.js.map",
-    "static/js/2.8511f5ce.chunk.js": "/static/js/2.8511f5ce.chunk.js",
-    "static/js/2.8511f5ce.chunk.js.map": "/static/js/2.8511f5ce.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.197b212a6c45e85c86a702b01cf1315b.js": "/precache-manifest.197b212a6c45e85c86a702b01cf1315b.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.28d405fc.chunk.css.map": "/static/css/main.28d405fc.chunk.css.map",
-    "static/js/2.8511f5ce.chunk.js.LICENSE.txt": "/static/js/2.8511f5ce.chunk.js.LICENSE.txt",
-    "static/media/1.jpg": "/static/media/1.8ec80b68.jpg",
-    "static/media/2.jpg": "/static/media/2.f3d801b4.jpg",
-    "static/media/3.jpg": "/static/media/3.8e5ed114.jpg",
-    "static/media/4.jpg": "/static/media/4.4093bd26.jpg",
-    "static/media/profile1.jpeg": "/static/media/profile1.c59a793c.jpeg"
+    "main.css": "/bloggerku/static/css/main.28d405fc.chunk.css",
+    "main.js": "/bloggerku/static/js/main.2e7e6ab8.chunk.js",
+    "main.js.map": "/bloggerku/static/js/main.2e7e6ab8.chunk.js.map",
+    "runtime-main.js": "/bloggerku/static/js/runtime-main.0f92ad30.js",
+    "runtime-main.js.map": "/bloggerku/static/js/runtime-main.0f92ad30.js.map",
+    "static/js/2.8511f5ce.chunk.js": "/bloggerku/static/js/2.8511f5ce.chunk.js",
+    "static/js/2.8511f5ce.chunk.js.map": "/bloggerku/static/js/2.8511f5ce.chunk.js.map",
+    "index.html": "/bloggerku/index.html",
+    "precache-manifest.ab346dec36711fdf6b11aee54a4e9c62.js": "/bloggerku/precache-manifest.ab346dec36711fdf6b11aee54a4e9c62.js",
+    "service-worker.js": "/bloggerku/service-worker.js",
+    "static/css/main.28d405fc.chunk.css.map": "/bloggerku/static/css/main.28d405fc.chunk.css.map",
+    "static/js/2.8511f5ce.chunk.js.LICENSE.txt": "/bloggerku/static/js/2.8511f5ce.chunk.js.LICENSE.txt",
+    "static/media/1.jpg": "/bloggerku/static/media/1.8ec80b68.jpg",
+    "static/media/2.jpg": "/bloggerku/static/media/2.f3d801b4.jpg",
+    "static/media/3.jpg": "/bloggerku/static/media/3.8e5ed114.jpg",
+    "static/media/4.jpg": "/bloggerku/static/media/4.4093bd26.jpg",
+    "static/media/profile1.jpeg": "/bloggerku/static/media/profile1.c59a793c.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.09b85ec0.js",
+    "static/js/runtime-main.0f92ad30.js",
     "static/js/2.8511f5ce.chunk.js",
     "static/css/main.28d405fc.chunk.css",
-    "static/js/main.e6d074d1.chunk.js"
+    "static/js/main.2e7e6ab8.chunk.js"
   ]
 }
