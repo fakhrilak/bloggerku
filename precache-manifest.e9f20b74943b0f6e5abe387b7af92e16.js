@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0e003f1174c16b0f70574e081ec3aa4a",
+    "revision": "13ef083639159c1f59cbde3e7c458533",
     "url": "/bloggerku/index.html"
   },
   {
-    "revision": "5a86be512880ca7cdfda",
-    "url": "/bloggerku/static/css/main.aee41e72.chunk.css"
+    "revision": "7ddb583d6b281c5d6bd7",
+    "url": "/bloggerku/static/css/main.0d38df11.chunk.css"
   },
   {
-    "revision": "10a3b6037ad4637229bb",
-    "url": "/bloggerku/static/js/2.8511f5ce.chunk.js"
+    "revision": "5b783c8d7bd15638b4ef",
+    "url": "/bloggerku/static/js/2.30ed8887.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/bloggerku/static/js/2.8511f5ce.chunk.js.LICENSE.txt"
+    "url": "/bloggerku/static/js/2.30ed8887.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5a86be512880ca7cdfda",
-    "url": "/bloggerku/static/js/main.06f4b7f6.chunk.js"
+    "revision": "7ddb583d6b281c5d6bd7",
+    "url": "/bloggerku/static/js/main.8c99fb12.chunk.js"
   },
   {
     "revision": "4cece7127ac7c90f1f0c",
