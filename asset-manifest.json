@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/bloggerku/static/css/main.ba27aab8.chunk.css",
-    "main.js": "/bloggerku/static/js/main.4489a945.chunk.js",
-    "main.js.map": "/bloggerku/static/js/main.4489a945.chunk.js.map",
+    "main.js": "/bloggerku/static/js/main.612f317b.chunk.js",
+    "main.js.map": "/bloggerku/static/js/main.612f317b.chunk.js.map",
     "runtime-main.js": "/bloggerku/static/js/runtime-main.0f92ad30.js",
     "runtime-main.js.map": "/bloggerku/static/js/runtime-main.0f92ad30.js.map",
     "static/js/2.82bc0f93.chunk.js": "/bloggerku/static/js/2.82bc0f93.chunk.js",
     "static/js/2.82bc0f93.chunk.js.map": "/bloggerku/static/js/2.82bc0f93.chunk.js.map",
     "index.html": "/bloggerku/index.html",
-    "precache-manifest.e39e1c71d21600a3c03183066a3022c0.js": "/bloggerku/precache-manifest.e39e1c71d21600a3c03183066a3022c0.js",
+    "precache-manifest.6109e5b29b79d49a300bbdf49255e9ca.js": "/bloggerku/precache-manifest.6109e5b29b79d49a300bbdf49255e9ca.js",
     "service-worker.js": "/bloggerku/service-worker.js",
     "static/css/main.ba27aab8.chunk.css.map": "/bloggerku/static/css/main.ba27aab8.chunk.css.map",
     "static/js/2.82bc0f93.chunk.js.LICENSE.txt": "/bloggerku/static/js/2.82bc0f93.chunk.js.LICENSE.txt",
@@ -24,6 +24,6 @@
     "static/js/runtime-main.0f92ad30.js",
     "static/js/2.82bc0f93.chunk.js",
     "static/css/main.ba27aab8.chunk.css",
-    "static/js/main.4489a945.chunk.js"
+    "static/js/main.612f317b.chunk.js"
   ]
 }
