@@ -1,29 +1,30 @@
 {
   "files": {
     "main.css": "/bloggerku/static/css/main.0b77d7f6.chunk.css",
-    "main.js": "/bloggerku/static/js/main.4de337e5.chunk.js",
-    "main.js.map": "/bloggerku/static/js/main.4de337e5.chunk.js.map",
+    "main.js": "/bloggerku/static/js/main.a1a6756a.chunk.js",
+    "main.js.map": "/bloggerku/static/js/main.a1a6756a.chunk.js.map",
     "runtime-main.js": "/bloggerku/static/js/runtime-main.0f92ad30.js",
     "runtime-main.js.map": "/bloggerku/static/js/runtime-main.0f92ad30.js.map",
-    "static/js/2.82bc0f93.chunk.js": "/bloggerku/static/js/2.82bc0f93.chunk.js",
-    "static/js/2.82bc0f93.chunk.js.map": "/bloggerku/static/js/2.82bc0f93.chunk.js.map",
+    "static/js/2.bbb6750d.chunk.js": "/bloggerku/static/js/2.bbb6750d.chunk.js",
+    "static/js/2.bbb6750d.chunk.js.map": "/bloggerku/static/js/2.bbb6750d.chunk.js.map",
     "index.html": "/bloggerku/index.html",
-    "precache-manifest.3342209d4352b240dc662ef618127eae.js": "/bloggerku/precache-manifest.3342209d4352b240dc662ef618127eae.js",
+    "precache-manifest.fc547fcd4a77b8f8f179707fb8307655.js": "/bloggerku/precache-manifest.fc547fcd4a77b8f8f179707fb8307655.js",
     "service-worker.js": "/bloggerku/service-worker.js",
     "static/css/main.0b77d7f6.chunk.css.map": "/bloggerku/static/css/main.0b77d7f6.chunk.css.map",
-    "static/js/2.82bc0f93.chunk.js.LICENSE.txt": "/bloggerku/static/js/2.82bc0f93.chunk.js.LICENSE.txt",
+    "static/js/2.bbb6750d.chunk.js.LICENSE.txt": "/bloggerku/static/js/2.bbb6750d.chunk.js.LICENSE.txt",
     "static/media/1.jpg": "/bloggerku/static/media/1.8ec80b68.jpg",
     "static/media/2.jpg": "/bloggerku/static/media/2.f3d801b4.jpg",
     "static/media/3.jpg": "/bloggerku/static/media/3.8e5ed114.jpg",
     "static/media/4.jpg": "/bloggerku/static/media/4.4093bd26.jpg",
     "static/media/header.png": "/bloggerku/static/media/header.bf1864e9.png",
+    "static/media/logo.png": "/bloggerku/static/media/logo.c1cc3d53.png",
     "static/media/profile1.jpeg": "/bloggerku/static/media/profile1.c59a793c.jpeg",
     "static/media/you.jpeg": "/bloggerku/static/media/you.720f7a67.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.0f92ad30.js",
-    "static/js/2.82bc0f93.chunk.js",
+    "static/js/2.bbb6750d.chunk.js",
     "static/css/main.0b77d7f6.chunk.css",
-    "static/js/main.4de337e5.chunk.js"
+    "static/js/main.a1a6756a.chunk.js"
   ]
 }
