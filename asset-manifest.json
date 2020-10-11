@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/bloggerku/static/css/main.e1141f02.chunk.css",
-    "main.js": "/bloggerku/static/js/main.0dc29853.chunk.js",
-    "main.js.map": "/bloggerku/static/js/main.0dc29853.chunk.js.map",
+    "main.css": "/bloggerku/static/css/main.70cd37a0.chunk.css",
+    "main.js": "/bloggerku/static/js/main.b53fa17a.chunk.js",
+    "main.js.map": "/bloggerku/static/js/main.b53fa17a.chunk.js.map",
     "runtime-main.js": "/bloggerku/static/js/runtime-main.0f92ad30.js",
     "runtime-main.js.map": "/bloggerku/static/js/runtime-main.0f92ad30.js.map",
     "static/css/2.8fbedf3e.chunk.css": "/bloggerku/static/css/2.8fbedf3e.chunk.css",
-    "static/js/2.362ce4a2.chunk.js": "/bloggerku/static/js/2.362ce4a2.chunk.js",
-    "static/js/2.362ce4a2.chunk.js.map": "/bloggerku/static/js/2.362ce4a2.chunk.js.map",
+    "static/js/2.7e63131a.chunk.js": "/bloggerku/static/js/2.7e63131a.chunk.js",
+    "static/js/2.7e63131a.chunk.js.map": "/bloggerku/static/js/2.7e63131a.chunk.js.map",
     "index.html": "/bloggerku/index.html",
-    "precache-manifest.b5bc1bdd4861ecfd4eb85dd7f0a4fa2f.js": "/bloggerku/precache-manifest.b5bc1bdd4861ecfd4eb85dd7f0a4fa2f.js",
+    "precache-manifest.7b7538c37c4f96322ade1b6b406f8cd1.js": "/bloggerku/precache-manifest.7b7538c37c4f96322ade1b6b406f8cd1.js",
     "service-worker.js": "/bloggerku/service-worker.js",
     "static/css/2.8fbedf3e.chunk.css.map": "/bloggerku/static/css/2.8fbedf3e.chunk.css.map",
-    "static/css/main.e1141f02.chunk.css.map": "/bloggerku/static/css/main.e1141f02.chunk.css.map",
-    "static/js/2.362ce4a2.chunk.js.LICENSE.txt": "/bloggerku/static/js/2.362ce4a2.chunk.js.LICENSE.txt",
+    "static/css/main.70cd37a0.chunk.css.map": "/bloggerku/static/css/main.70cd37a0.chunk.css.map",
+    "static/js/2.7e63131a.chunk.js.LICENSE.txt": "/bloggerku/static/js/2.7e63131a.chunk.js.LICENSE.txt",
     "static/media/1.jpg": "/bloggerku/static/media/1.8ec80b68.jpg",
     "static/media/2.jpg": "/bloggerku/static/media/2.f3d801b4.jpg",
     "static/media/3.jpg": "/bloggerku/static/media/3.8e5ed114.jpg",
@@ -26,8 +26,8 @@
   "entrypoints": [
     "static/js/runtime-main.0f92ad30.js",
     "static/css/2.8fbedf3e.chunk.css",
-    "static/js/2.362ce4a2.chunk.js",
-    "static/css/main.e1141f02.chunk.css",
-    "static/js/main.0dc29853.chunk.js"
+    "static/js/2.7e63131a.chunk.js",
+    "static/css/main.70cd37a0.chunk.css",
+    "static/js/main.b53fa17a.chunk.js"
   ]
 }
