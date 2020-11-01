@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "82d1f88ad416f79d115d71bc7db65983",
+    "revision": "19b8bbf4f08c0c631676b79f89333e12",
     "url": "/bloggerku/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bloggerku/static/css/2.8fbedf3e.chunk.css"
   },
   {
-    "revision": "f840d4dc75c0c1b733ef",
+    "revision": "cd51236049759037b701",
     "url": "/bloggerku/static/css/main.2f0d7670.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bloggerku/static/js/2.93057f82.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f840d4dc75c0c1b733ef",
-    "url": "/bloggerku/static/js/main.cb169290.chunk.js"
+    "revision": "cd51236049759037b701",
+    "url": "/bloggerku/static/js/main.e63bf57b.chunk.js"
   },
   {
     "revision": "4cece7127ac7c90f1f0c",
