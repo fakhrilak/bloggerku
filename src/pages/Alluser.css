@@ -1,0 +1,41 @@
+.grid-card{
+    
+    display: flex;
+    gap:20px
+}
+.alluser{
+   padding-top: 100px; 
+}
+.alluser h1{
+    text-align: center;
+}
+.content-card{
+    background-color: #3399ff;
+    border-radius: 30px;
+    margin: 20px;
+    min-width: 250px;
+    height: 180px;
+}
+.card{
+    padding-left: 20px;
+}
+
+@media screen and (max-width:480px){
+    .grid-card{
+        display: block;
+        gap:2px;
+        padding-left: 30px;
+        padding-right: 30px;
+        padding-top: 20px;
+    }
+    .content-card{
+        background-color: #3399ff;
+        border-radius: 30px;
+        margin: 10px;
+        min-width: 50px;
+        height: 180px;
+    }
+    .card{
+        padding-left: 20px;
+    }
+}

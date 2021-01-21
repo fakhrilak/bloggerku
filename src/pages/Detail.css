@@ -1,0 +1,82 @@
+.Detail{
+    padding-top: 60px;
+    margin-left: 20px;
+    margin-right: 50px;
+    text-align: justify;
+}
+.Judul{
+    text-align: left;
+}
+.Container{
+    max-width: 70%;
+    padding-left: 15%;
+}
+.thumbnail{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 74%;
+}
+.thumbnail img{
+    width:700px;
+}
+.Foother{
+    margin-left: 43%;
+}
+.date{
+    padding-top: 20px;
+    display: flex;
+    padding-left: 190px;
+    color: #3399ff;
+}
+.datacontent{
+    padding-top: 20px;
+    padding-left: 10px;
+}
+.datacontent button{
+    font-size:smaller ;
+    background-color: #ffffff;
+    border-radius: 5px;
+    border-color: #3399ff;
+    color: #3399ff;
+}
+@media screen and (max-width:480px){
+    .Judul h1{
+        padding-top: 50px;
+        text-align: center;
+    }
+    .thumbnail img{
+        width:220px;
+    }
+    .Container{
+        padding-left: 10%;
+        padding-right: 10%;
+        max-width: 80%;
+    }
+    .Foother{
+        margin-left: 25%;
+    }
+    .Detail{
+        padding-top: 30px;
+        margin-left: 1px;
+        margin-right: 1px;
+        text-align: justify;
+    }
+    .date{
+        padding-top: 20px;
+        display: flex;
+        padding-left: 40px;
+        color: #3399ff;
+    }
+    .datacontent{
+        padding-top: 20px;
+        padding-left: 10px;
+    }
+    .datacontent button{
+        font-size:smaller ;
+        background-color: #ffffff;
+        border-radius: 5px;
+        border-color: #3399ff;
+        color: #3399ff;
+    }
+}

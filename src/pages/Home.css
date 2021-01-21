@@ -1,0 +1,121 @@
+.Home-content{
+    height: auto;
+    width: 81.2%;
+    margin-left: 9.3%;
+    margin-right: 10%;
+    z-index: 1;
+    padding-bottom: 10px;
+    display: grid;
+    grid-template-columns: 1fr;
+}
+.grid-category{
+    width: 100%;
+    
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap: 1rem;
+}
+.grid-item{
+    background-color: #3399ff;
+    height: 180px;
+    text-align: center;
+    border-radius: 10px;
+}
+.grid-item img{
+    padding-top: 10px;
+    width: 100px;
+}
+.grid-item h5{
+    padding-bottom: 10px;
+}
+.Home-pict img{
+    width: 100%;
+    height: 300px;
+    padding-top: 80px;
+    border-radius: 50px;
+}
+.Thumbnail{
+    width: 100%;
+    height: 160px;
+    background-color: #66ccff;
+    padding-top: 70px;
+}
+.Home-Foother{
+    height: 50px;
+    background-color: #3399ff;
+    width: 81%;
+    margin-left: 9.5%;
+    margin-right: 10%;
+    top: -20px;
+    border-radius: 0px 0px 10px 10px;
+}
+.Home-content p{
+    text-align: center;
+    font-weight: bolder;
+    font-size: large;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.Thumbnail img{
+    width: 100%;
+}
+.Home-Left{
+    float: left;
+}
+.Home-Right{
+    float: right;
+}
+.Home h1{
+    top:130px;
+    left: 30px;
+    padding-left: 0px;
+    text-align: left;
+    position: absolute;
+}
+.Content-Home-Right{
+    background-color: #3399ff;
+    margin-left: 15%;
+    width: 75%;
+    border-radius: 10px;
+    text-align: left;
+}
+@media screen and (max-width:480px){
+    .Home-content{
+        display: grid;
+        grid-template-columns: 1fr;
+        width: 100%;
+        margin-left: 0;
+    }
+    .Home-pict img{
+        width: 100%;
+        height: 150px;
+        padding-top: 80px;
+    }
+    .Home-content p{
+        text-align: center;
+    }
+    .Home-Foother{
+        width: 100%;
+        margin-left: 0px;
+    }
+    .p{
+        text-align: center;
+    }
+    .Home h1{
+        position: absolute;
+        top:50px;
+        left: 110px;
+        padding-left: 0px;
+        text-align: left;
+    }
+    .Homecontent{
+        float: left;
+    }
+    .grid-category{
+        margin-left: 20px;
+        margin-right: 20px;
+        width: 90%;
+        display: grid;
+        grid-template-columns: 1fr;
+        gap: 1rem;
+    }
+}

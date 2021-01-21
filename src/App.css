@@ -1,0 +1,29 @@
+.foother {
+    left: 0;
+    bottom: 0;
+    width: 100%;
+  }
+.Navbar{
+  transition: top 0.3s;
+}
+.form-group{
+  padding-bottom: 10px;
+}
+.custom-input{
+  width: 200px;
+  height: 20px;
+  border-radius: 20px;
+  border-color: black;
+  padding-left: 10px;
+}
+.form-submit{
+  padding-bottom: 0px;
+}
+.btn-submit{
+  width: 100px;
+  height: 25px;
+  border-radius: 20px;
+  border-color: black;
+  font-weight: bolder;
+  font-size: 15px;
+}
